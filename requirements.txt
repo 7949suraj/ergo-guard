@@ -3,5 +3,5 @@ opencv-python==4.11.0.86
 mediapipe==0.10.21
 numpy==1.26.4
 pandas==2.3.3
-altair==5.5.0
-protobuf==4.25.8
+scikit-learn==1.7.2
+
