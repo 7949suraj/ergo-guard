@@ -15,8 +15,7 @@ from datetime import datetime
 
 # Suppress TensorFlow and protobuf warnings
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
-warnings.filterwarnings("ignore", message="SymbolDatabase.GetPrototype\\(\\) is deprecated.*")
-
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 # ======================== PAGE CONFIGURATION ========================
 st.set_page_config(
     layout="wide",
@@ -499,7 +498,7 @@ else:
             }.get(st.session_state.current_status, 'UNKNOWN')
             
             cv2.putText(frame, status_text, (20, 45),
-                       cv2.FONT_HERSHEY_BOLD, 1.2, (255, 255, 255), 3)
+                       cv2.FONT_HERSHEY_SIMPLEX, 1.2, (255, 255, 255), 3)
             
             # Draw metrics on frame
             metrics_y = h - 20
