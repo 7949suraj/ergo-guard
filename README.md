@@ -20,7 +20,7 @@ ergo-guard/
 │
 ├── evidence/
 │   ├── screenshots/             # Contains saved posture screenshots (good/bad/warning)
-│   └── report.docx              # Project documentation report
+│   └── DES646 Final Project Report_ Ergo-Guard.docx              # Project documentation report
 │
 ├── requirements.txt
 └── README.md
