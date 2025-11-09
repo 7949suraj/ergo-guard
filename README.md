@@ -131,9 +131,9 @@ The video includes:
 
 | Member             | Role                     | Contribution Summary                                                  |
 | :----------------- | :----------------------- | :-------------------------------------------------------------------- |
-| **Nipun Nandwani** | Developer & Collaborator | Worked on Streamlit interface, testing, and documentation             |
-| **Manas Tripathi** | Developer & Collaborator | Helped in model integration, threshold tuning, and report preparation |
-| **Suraj Patel**    | Developer & Collaborator | Assisted in Streamlit UI, documentation, and demo video creation      |
+| **Nipun Nandwani(240700)** | Developer & Collaborator | Worked on Streamlit interface, testing, and documentation             |
+| **Manas Tripathi( 240616)** | Developer & Collaborator | Helped in model integration, threshold tuning, and report preparation |
+| **Suraj Patel(241066)**    | Developer & Collaborator | Assisted in Streamlit UI, documentation, and demo video creation      |
 
 🧩 All members contributed equally to development, testing, documentation, and report preparation.
 
