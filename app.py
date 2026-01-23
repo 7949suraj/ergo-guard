@@ -1,5 +1,5 @@
 # app.py - Ergo-Guard: Real-time Posture Detection System
-# Author: Your Name
+# Author:Nipun Nandwani
 # Description: Monitors sitting posture using webcam and MediaPipe Pose detection
 
 import os
